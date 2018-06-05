@@ -1,21 +1,24 @@
-# Stack!
+# JavaScript Data Structures!
 
-A **stack** is a basic data structure where you can only insert or delete items at the top of the stack. It is kind of similar to a stack of books. If you want to look at a book in the middle of stack you must take all the books above it off first.
+## “Bad programmers worry about the code. Good programmers worry about data structures and their relationships.” — Linus Torvalds, creator of Linux
 
-The stack is considered **LIFO (Last In First Out)**; meaning the last item you put in the stack is the first item that comes out of the stack.
-![alt text](./img.png "Stack")
-# Operations on Stack
+Data structures are a critical part of software development, and one of the most common topics for developer job interview questions.
 
-There are **three** main operations that can be performed on stacks;
+JavaScript (like most high-level languages) has built-in implementations of many of these data structures.
 
- 1. Inserting an item (PUSH)
- 2. Deleting an Item (POP)
- 3. Display contents of Stack (PIP)
+Still, knowing how to implement these data structures will give you a huge edge in your developer job search, and may come in handy when you’re trying to write high-performance code.
 
-# Stack Time Complexity
-| Algorithm | Average  | Worst Case|
-|--|--|--|
-|Space |  O(n) |O(N)|
-|Search |  O(n) |O(N)|
-|Insert |  O(1) |O(1)|
-|Delete |  O(1) |O(1)|
+I am gonna implement following data structures in javascript es5 and es6.
+
+ 1. Stack
+ 2. Queses
+ 3. Linked Lists
+ 4. Sets
+ 5. Maps
+ 6. Hash Tables
+ 7. Binary Search Tree
+ 8. Trie
+ 9. Binary Heap
+ 10. Graph 
+
+The book _Grokking Algorithms_ is the best book on the topic if you are new to data structures/algorithms and don’t have a computer science background.
